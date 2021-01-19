@@ -1,0 +1,22 @@
+{
+  "name": "finance-tracker",
+  "version": "1.0.0",
+  "description": "A full stack finance app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clockwerkz/finance-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clockwerkz/finance-tracker/issues"
+  },
+  "homepage": "https://github.com/clockwerkz/finance-tracker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
